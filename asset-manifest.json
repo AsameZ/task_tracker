@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AsameZ/task_tracker.git/static/css/main.7a38ffec.css",
+    "main.js": "/AsameZ/task_tracker.git/static/js/main.9f16f496.js",
+    "static/js/787.8dd7d340.chunk.js": "/AsameZ/task_tracker.git/static/js/787.8dd7d340.chunk.js",
+    "static/media/back-abstract.png": "/AsameZ/task_tracker.git/static/media/back-abstract.9e6d6c6cc270df2cb988.png",
+    "index.html": "/AsameZ/task_tracker.git/index.html",
+    "main.7a38ffec.css.map": "/AsameZ/task_tracker.git/static/css/main.7a38ffec.css.map",
+    "main.9f16f496.js.map": "/AsameZ/task_tracker.git/static/js/main.9f16f496.js.map",
+    "787.8dd7d340.chunk.js.map": "/AsameZ/task_tracker.git/static/js/787.8dd7d340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a38ffec.css",
+    "static/js/main.9f16f496.js"
+  ]
+}
